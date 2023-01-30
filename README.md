@@ -3,11 +3,16 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
-### Step 4: 
-### Step 5: 
+### Step 1: Create a python program to find the distance between two points.
+### Step 2:
+get the co-ordinate
+### Step 3:
+Substitute the values in the distance formula
+### Step 4:
+Display the output.
+### Step 5:
+End the program
+
 ### PROGRAM:
 ```python
 #Program to find the distance between two points.
